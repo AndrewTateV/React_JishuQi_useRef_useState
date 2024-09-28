@@ -1,0 +1,45 @@
+.btn {
+                    background-color: #4caf50;
+                    border: none;
+                    color: white;
+                    padding: 16px 32px;
+                    text-align: center;
+                    font-size: 16px;
+                    margin: 4px 2px;
+                    opacity: 0.6;
+                    transition: 0.3s;
+                    display: inline-block;
+                    text-decoration: none;
+                    cursor: pointer;
+                    user-select: none;
+                  }
+                  
+                  .btn:hover {
+                    opacity: 1;
+                  }
+                  
+                  .large {
+                    padding: 16px 32px;
+                    font-size: 24px;
+                  }
+                  
+                  .green {
+                    background-color: #5dae60;
+                    color: white;
+                  }
+                  
+                  .blue {
+                    background-color: #008cba;
+                    color: white;
+                  }
+                  
+                  .red {
+                    background-color: #f44336;
+                    color: white;
+                  }
+                  
+                  .orange {
+                    background-color: #ff9800;
+                    color: white;
+                  }
+                  
